@@ -1,58 +1,70 @@
-# Abdelrahman Khattab
+# Abd El-Rahman Khattab
 
-## About Me
+### Backend Engineer | Kotlin & Spring Boot | Node.js & TypeScript
 
-I am a passionate back-end developer with a focus on building scalable and efficient systems. I have expertise in various technologies and frameworks, including Node.js, Express.js, MongoDB, and SQL. I enjoy solving complex problems and optimizing performance to deliver high-quality software solutions.
+Backend Engineer focused on building, modernizing, and maintaining production backend systems in microservices environments.
 
+I enjoy solving backend problems involving system design, APIs, databases, distributed services, reliability, and performance.
 
-## Projects
+## Experience
 
-### Project 1: E-Commerce Platform
+### Taager — Backend Engineer
 
-- **Description:** Developed a full-fledged e-commerce platform with user authentication, product management, cart functionality, and order processing.
-- **Technologies Used:** Node.js, Express.js, MongoDB, Mongoose, JWT.
-- **Repository Link:** [E-Commerce Platform Repository](https://github.com/khttp/e-shop)
+**Oct 2025 – oct 2026**
 
-### Project 2: Blogging Application
+* Develop and maintain backend services within a microservices ecosystem using **Kotlin, Spring Boot, Node.js, and TypeScript**.
+* Implement new backend capabilities using **Domain-Driven Design** while maintaining and modernizing existing services.
+* Contribute to the transition of backend services from **TypeScript to Kotlin with Spring Boot**.
+* Refactor legacy components and improve inter-service communication to increase maintainability and system performance.
+* Work with high-volume production systems, focusing on **stability, fault tolerance, reliability, and uptime**.
 
-- **Description:** Built a RESTful API for managing tasks with features like CRUD operations.
-- **Technologies Used:** Node.js, Express.js, MongoDB, Mongoose.
-- **Repository Link:** [Blogging API Repository](https://github.com/khttp/web-div/tree/develop/blog)
+### Vodafone — Software Engineer
 
-### project 3: Spoken Signs
-- Description: An Embedded glove that trnaslates sign language to a voice message.
-- Rule : i managed to create a script to communicate with the ESP32 to store the date to be trained, created the model conveting the model to suite the limited qualities of the microcontroller
-- Tenchnologies Used: Python,Tensorflow ,Tensorflow lite micro ,eloquent tinymli ,C++ ,convolutional neural networks,Arduino IDE.
-- Repository Link: [Spoken Signs Repository](https://github.com/alaaAbdelrahman/Graduation_project)
+**Nov 2024 – Oct 2025**
 
-<a href="https://github.com/khttp/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=khttp&theme=gruvbox" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khttp&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
-</a>
+* Led the migration of Vodafone's AI chatbot to **Microsoft Bot Framework Composer with zero downtime**, supporting a service used by millions of customers.
+* Developed and enhanced backend functionality to improve chatbot performance and reliability.
+* Improved response accuracy and processing speed by **20%** through NLP optimization and iterative improvements.
+* Contributed to a **15% improvement in customer satisfaction** through feature enhancements and continuous optimization.
+* Maintained backend systems supporting thousands of daily users.
 
-## Skills
+### Gemindz — Software Engineer Intern
 
-  - JavaScript
-  - Node.js
-  - Express.js
-  - MongoDB
-  - SQL
-  - RESTful API Design
-  - Authentication & Authorization
-  - Agile Development
-  - Test-Driven Development (TDD)
-  - Continuous Integration & Deployment (CI/CD)
-  - Python
-  - C++
-  - Tensorflow
+**Jul 2023 – Aug 2023**
 
-## Contact Me
+* Developed backend services using **FastAPI** for processing real-time hardware data and communicating with IoT devices.
+* Built cross-platform applications using **Vue.js and Quasar**.
+* Created **20+ unit tests** using Pytest and identified and resolved **12 critical bugs** before deployment.
+* Collaborated with senior developers throughout the development lifecycle.
 
-- **Email:** abdelrahmankhattab9999@gmail.com
-- **LinkedIn:** [Abdelrahman Khattab's LinkedIn Profile](https://www.linkedin.com/in/khttb)
-- **GitHub:** [Abdelrahman Khattab's GitHub Profile](https://github.com/khttp)
+## Technical Skills
 
-Feel free to connect with me for any collaboration opportunities or inquiries!
+**Languages**
 
+Kotlin · TypeScript · JavaScript · Python · SQL · Bash
+
+**Backend**
+
+Spring Boot · Node.js · Express · FastAPI · Flask · REST APIs · Microservices · Domain-Driven Design
+
+**Databases**
+
+PostgreSQL · MySQL · MongoDB · OracleDB
+
+**Tools & Infrastructure**
+
+Docker · Git · Linux
+
+## Selected Projects
+
+### Daily-wash
+
+Backend marketplace built with **Node.js, Express, and MongoDB**, expanded to support multiple service types including laundry, car wash, and home cleaning.
+
+### DSPyBridge
+
+Modular **FastAPI** server exposing DSPy-based AI capabilities through REST APIs.
+
+### Spoken Signs
+
+Graduation project involving an embedded glove with sensors and a deep learning model for translating hand gestures into synthesized voice messages.
